@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #141414;
+}
+
+h1{
+    font-family: Helvetica;
+    color: #c09d79;
+    text-shadow: 0 0 30px #fff;
+    text-align: center;
+    font-size: 6vh !important;
+}
